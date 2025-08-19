@@ -1,0 +1,4 @@
+apify_client==2.0.0
+fitz==0.0.1.dev2
+groq==0.31.0
+python-dotenv==1.1.1
